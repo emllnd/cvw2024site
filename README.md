@@ -1,4 +1,4 @@
 
 ## Coding Virtual Worlds 2024
 
-Course webpage & content here
+Source code & content for the [course materials website](https://aaltovirtualworlds.xyz/).
