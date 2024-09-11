@@ -164,7 +164,6 @@ Some ideas can be found [here](https://www.youtube.com/watch?v=gh4k0Q1Pl7E)
 - Make cubes sometimes swap colors and destroy missed cubes (0.5 points)
 - Add lighting effects with glow, fog and postprocessing. (0.5 points)
 - Add cutting direction, e.g., by using the velocity (1 point)
-- Add slicing in half animation. Here is a more involved tutorial. (1 point)
 - Add your own feature including explanation in the text file (up to 1 point each)
 
 &nbsp;

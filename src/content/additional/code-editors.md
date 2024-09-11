@@ -64,6 +64,7 @@ Some sort of a text editor or Integrated Development Environment (IDE) is requir
 &nbsp;
 
 #### [Zed](https://zed.dev)
+- "Multiplayer editor" -- collaboration features built-in
 - Bring Your Own Key (BYOK) for AI features, e.g. create account at https://console.anthropic.com and pay Anthropic per usage
 - Currently recommend to use Claude 3.5 Sonnet as the AI model
 
