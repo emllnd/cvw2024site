@@ -14,7 +14,7 @@
                 adapted from <a href="https://www.sebastianjiroschlecht.com/courses/" target="_blank" rel="noopener noreferrer">Sebastian Schlecht 2020-2023</a>
             </small>
             <small>
-                site source is <a href="https://github.com/emllnd/cvw2024site-release" target="_blank" rel="noopener noreferrer">available on GitHub</a>
+                site source is <a href="https://github.com/emllnd/cvw2024site" target="_blank" rel="noopener noreferrer">available on GitHub</a>
             </small>
         </div>
 

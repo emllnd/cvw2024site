@@ -1,9 +1,16 @@
 <script lang="ts">
     export let videoUrl: string;
 
-    // Validate the video URL
-    function isValidVideoUrl(url: string): boolean {
-        return url.endsWith('.mp4') || url.endsWith('.mov');
+    const removeAllParamsFromUrl = (url: string): string => {
+        const urlObject = new URL(url);
+        urlObject.search = '';
+        urlObject.hash = '';
+        return urlObject.toString();
+    }
+
+    const isValidVideoUrl = (url: string): boolean => {
+        const urlNoParams = removeAllParamsFromUrl(url);
+        return urlNoParams.endsWith('.mp4') || urlNoParams.endsWith('.mov');
     }
 </script>
 
