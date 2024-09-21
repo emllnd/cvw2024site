@@ -9,9 +9,13 @@ image: /img/week1/temp-clouds.jpg
 
 This is an introductory course to creating virtual worlds with the help of Unity 3D and Oculus Quest head-mounted displays. The lectures are given by Lecturer Emil Lindfors.
 
-To get a flavour of the course; here, is the showreel of the course projects in 2020.
+To get a flavour of the course; here, is the showreel of the course projects in 2023.
 
-<VideoPlayer videoUrl="https://dl.dropboxusercontent.com/s/393sv5wcif9xhyt/Coding%20Virtual%20Worlds%202020%20v2.mov"></VideoPlayer>
+<VideoPlayer videoUrl="https://www.dropbox.com/scl/fi/wl1l5jkjrfhsaf5at921r/CVW-showreel-2023.mp4?rlkey=k4c1na9cwucyr7tpqsiv7cbh0&dl=0&raw=1"></VideoPlayer>
+
+And in 2020.
+
+<VideoPlayer videoUrl="https://www.dropbox.com/s/d7oq5363wp8ktrb/Coding%20Virtual%20Worlds%202020%20v2.mov?dl=0&raw=1"></VideoPlayer>
 
 ## Course Content
 

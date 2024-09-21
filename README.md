@@ -5,6 +5,8 @@ Source code & content for the [course materials website](https://aaltovirtualwor
 
 This is a static website built with [SvelteKit](https://kit.svelte.dev/).
 
+Text content of the pages can be found in the .md files under [/src/content](https://github.com/emllnd/cvw2024site/tree/main/src/content/). 
+
 ### Getting started:
 
 - install [nodejs](https://nodejs.org/en)

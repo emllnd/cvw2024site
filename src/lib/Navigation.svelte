@@ -24,13 +24,13 @@
 	</li>
 	{#each posts as post}
 		{#if post.path !== '/landing'}
-			<li class="py-1">
+			<li class="py-0">
 				<span>
 					<a href={post.path} class="menu-closing-link text-black no-underline visited:text-black">
 						{#if !post.meta.title.includes('Week') && post.meta.title !== 'Additional'}
 							<p class="bulletlist">{post.meta.title}</p>
 						{:else}
-							<p class="">{post.meta.title}</p>
+							<p class="weektitle">{post.meta.title}</p>
 						{/if}
 					</a>
 				</span>
@@ -38,3 +38,9 @@
 		{/if}
 	{/each}
 </ul>
+
+<style>
+	.weektitle {
+			font-weight: bold;
+	}
+</style>
