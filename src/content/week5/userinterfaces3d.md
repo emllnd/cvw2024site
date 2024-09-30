@@ -67,8 +67,8 @@ Specific examples:
 
 Couple links:
 
-- [https://tvtropes.org/pmwiki/pmwiki.php/Main/DiegeticInterface](https://tvtropes.org/pmwiki/pmwiki.php/Main/DiegeticInterface)
-- [https://ux.stackexchange.com/questions/77126/differences-between-non-diegetic-spatial-meta-and-diegetic-user-interfaces](https://ux.stackexchange.com/questions/77126/differences-between-non-diegetic-spatial-meta-and-diegetic-user-interfaces)
+- [tvtropes.org > DiegeticInterface](https://tvtropes.org/pmwiki/pmwiki.php/Main/DiegeticInterface)
+- [ux.stackexchange.com > differences-between-non-diegetic...](https://ux.stackexchange.com/questions/77126/differences-between-non-diegetic-spatial-meta-and-diegetic-user-interfaces)
 
 &nbsp;
 
