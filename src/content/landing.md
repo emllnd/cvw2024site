@@ -1,8 +1,10 @@
 ---
-title: Coding Virtual Worlds 2024
-date: 2024-01-01
+date: '2024-01-01T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Coding Virtual Worlds 2024
+week: 0
+orderInWeek: 0
 ---
 
 <script>import VideoPlayer from '$lib/VideoPlayer.svelte'</script>
@@ -21,23 +23,22 @@ And in 2020.
 
 ### What this course is about
 
-- Introduction to Unity 3D and Meta Quest
-- Introduction to XR Interaction Toolkit
-- Coding for virtual reality applications
-- Basics of interaction in virtual reality
+* Introduction to Unity 3D and Meta Quest
+* Introduction to XR Interaction Toolkit
+* Coding for virtual reality applications
+* Basics of interaction in virtual reality
 
 ### What this course in NOT about
 
-- No other game engines or APIs, e.g., Unreal, Godot, WebXR, …
-- No other HMDs, e.g., Vive, Index, Varjo, …
-- No other VR frameworks, e.g., VRTK, OpenVR, AR framework …
-- Basics of VR technology, history and usage (see [Introduction to VR](https://courses.aalto.fi/s/course/a05Qt000006snqbIAA/introduction-to-virtual-reality?language=fi))
-- Storytelling, VR Design, … see (see [Designing and Creating Virtual Worlds](https://courses.aalto.fi/s/course/a05Qt000006snqdIAA/designing-and-creating-virtual-worlds?language=fi))
-- 3D Modeling and Animation (see [Animation for Games and VR D](https://courses.aalto.fi/s/course/a053X000012R06FQAS/animation-for-games-and-vr-d?language=fi), links to old course)
-- Spatial Sound (see [Immersive Sound D](https://courses.aalto.fi/s/course/a057T00000BSxIeQAL/immersive-sound-d?language=fi), links to old course)
-- HCI principles (see [Human-Computer Interaction](https://courses.aalto.fi/s/course/a05Qt000006soNxIAI/humancomputer-interaction?language=fi))
-- Bigger VR projects (see [Independent Study in VR](https://courses.aalto.fi/s/course/a053X000012R0y8QAC/independent-study-in-vr?language=fi), links to old course)
-
+* No other game engines or APIs, e.g., Unreal, Godot, WebXR, …
+* No other HMDs, e.g., Vive, Index, Varjo, …
+* No other VR frameworks, e.g., VRTK, OpenVR, AR framework …
+* Basics of VR technology, history and usage (see [Introduction to VR](https://courses.aalto.fi/s/course/a05Qt000006snqbIAA/introduction-to-virtual-reality?language=fi))
+* Storytelling, VR Design, … see (see [Designing and Creating Virtual Worlds](https://courses.aalto.fi/s/course/a05Qt000006snqdIAA/designing-and-creating-virtual-worlds?language=fi))
+* 3D Modeling and Animation (see [Animation for Games and VR D](https://courses.aalto.fi/s/course/a053X000012R06FQAS/animation-for-games-and-vr-d?language=fi), links to old course)
+* Spatial Sound (see [Immersive Sound D](https://courses.aalto.fi/s/course/a057T00000BSxIeQAL/immersive-sound-d?language=fi), links to old course)
+* HCI principles (see [Human-Computer Interaction](https://courses.aalto.fi/s/course/a05Qt000006soNxIAI/humancomputer-interaction?language=fi))
+* Bigger VR projects (see [Independent Study in VR](https://courses.aalto.fi/s/course/a053X000012R0y8QAC/independent-study-in-vr?language=fi), links to old course)
 
 ## Course Structure
 

@@ -1,8 +1,10 @@
 ---
-title: Hello World Unity
-date: 2024-02-05
+date: '2024-02-05T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Hello World Unity
+week: 2
+orderInWeek: 4
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>

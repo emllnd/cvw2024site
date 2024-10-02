@@ -1,8 +1,10 @@
 ---
-title: Game Logic
-date: 2024-05-04
+date: '2024-05-04T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Game Logic
+week: 5
+orderInWeek: 3
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>
@@ -13,13 +15,13 @@ Implementing game logics is can involve highly complex decisions and depends on 
 
 ## Unity Events
 
-Unity Events are one great mechanic to handle actions and perpetuate the effects through out the game. Here a quick overview on [events in Unity](https://www.youtube.com/watch?v=AGGmnVIhHvc&t=27s).
+Unity Events are one great mechanic to handle actions and perpetuate the effects through out the game. Here a quick overview on [events in Unity](https://www.youtube.com/watch?v=AGGmnVIhHvc\&t=27s).
 
 ## Scriptable Objects
 
 Read the introduction to [Three ways to architect your game with ScriptableObjects](https://unity.com/how-to/architect-game-code-scriptable-objects).
 
-Unfortunately the code examples embedded to the above article are nowadays broken. You can download the article as PDF with included .cs code samples working in [this ZIP package](https://www.dropbox.com/scl/fi/4h1ohjr45wtln759hx7hb/w5-gamelogic-scriptableobjects.zip?rlkey=8chtah20nol70x1h0bxlnjwsy&dl=1).
+Unfortunately the code examples embedded to the above article are nowadays broken. You can download the article as PDF with included .cs code samples working in [this ZIP package](https://www.dropbox.com/scl/fi/4h1ohjr45wtln759hx7hb/w5-gamelogic-scriptableobjects.zip?rlkey=8chtah20nol70x1h0bxlnjwsy\&dl=1).
 
 Copy those scripts from the ZIP into your project:
 
@@ -29,7 +31,7 @@ GameEvent.cs
 GameEventListener.cs
 ```
 
-&nbsp;
+ 
 
 ## Example Game Logic
 

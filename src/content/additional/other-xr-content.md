@@ -1,27 +1,29 @@
 ---
-title: Other XR Resources
-date: 2024-15-05
+date: '2025-03-05T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Other XR Resources
+week: 10
+orderInWeek: 2
 ---
 
-&nbsp;
+ 
 
 ## XR news outlets and education portals
 
-- [Upload VR](https://www.uploadvr.com/) (see also [Upload VR: Best Of VR](https://www.uploadvr.com/best-of-vr/))
-- [SkarredGhost (Tony Vitillo)](https://skarredghost.com/)
-- [Road to VR](https://www.roadtovr.com/)
+* [Upload VR](https://www.uploadvr.com/) (see also [Upload VR: Best Of VR](https://www.uploadvr.com/best-of-vr/))
+* [SkarredGhost (Tony Vitillo)](https://skarredghost.com/)
+* [Road to VR](https://www.roadtovr.com/)
 
-&nbsp;
+ 
 
 ## XR learning channels
 
-- [LearnXR.io (Dilmer Valecillos)](https://learnxr.io/)
-- [ValemVR](https://www.youtube.com/c/ValemVR)
-- [JustinPBarnett](https://www.youtube.com/@JustinPBarnett)
+* [LearnXR.io (Dilmer Valecillos)](https://learnxr.io/)
+* [ValemVR](https://www.youtube.com/c/ValemVR)
+* [JustinPBarnett](https://www.youtube.com/@JustinPBarnett)
 
-&nbsp;
+ 
 
 ## 180 and 360 -degree videos
 
@@ -33,18 +35,18 @@ Notice! Unfortunately on DeoVR there's also lots of clickbaity, barely Safe For 
 
 Can also use the [Meta Quest TV](https://www.meta.com/en-gb/experiences/1931356740318898/) to find similar content to watch: concerts, travel. Some very nice content but the app's discovery mechanisms seem a bit poor.
 
-&nbsp;
+ 
 
 ## Communities
 
 ### Professional Communities
 
-- [FIVR](https://fivr.fi/)
-- [Women in Immersive Technologies](https://www.wiiteurope.org/resources)
-- [Helsinki XR Center](https://helsinkixrcenter.com/)
-- [AIXR](https://aixr.org/)
+* [FIVR](https://fivr.fi/)
+* [Women in Immersive Technologies](https://www.wiiteurope.org/resources)
+* [Helsinki XR Center](https://helsinkixrcenter.com/)
+* [AIXR](https://aixr.org/)
 
 ### Scientific Conferences
 
-- [IEEE VR](https://ieeevr.org/)
-- [SIGGRAPH](https://www.siggraph.org/)
+* [IEEE VR](https://ieeevr.org/)
+* [SIGGRAPH](https://www.siggraph.org/)

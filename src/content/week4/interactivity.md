@@ -1,8 +1,10 @@
 ---
-title: Interactivity
-date: 2024-04-03
+date: '2024-04-03T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Interactivity
+week: 4
+orderInWeek: 1
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>
@@ -13,7 +15,9 @@ Correct XR Interaction Toolkit version is listed on the [Blessed Versions page](
 
 Notes on versions:
 
-    The videos use Unity 2019.4.26 and the XR Interaction Toolkit 0.10.0-preview.7. Newer version of the toolkit has different options for the prefabs in the context menu. 
+```
+The videos use Unity 2019.4.26 and the XR Interaction Toolkit 0.10.0-preview.7. Newer version of the toolkit has different options for the prefabs in the context menu. 
+```
 
 ### XR Interaction Toolkit Overview
 
@@ -49,11 +53,11 @@ The Starter Asset has already controller 3D models attached. Thus, there is no n
 
 <VideoEmbed youtube="4bjHXhjjIxI"></VideoEmbed>
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ## Unity Events
 

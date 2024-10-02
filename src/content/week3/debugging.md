@@ -1,8 +1,10 @@
 ---
-title: Debugging
-date: 2024-03-04
+date: '2024-03-04T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Debugging
+week: 3
+orderInWeek: 3
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>
@@ -52,4 +54,3 @@ Here is how to make recordings in Quest. You can talk over the video and demonst
 ## Meta Quest Developer Hub
 
 The Meta Quest Developer Hub offers many tools for developers such as casting, recording, and file transfer. The MQDH also can control wireless ADB bridge and turn off guardians.
-

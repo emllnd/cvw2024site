@@ -1,8 +1,10 @@
 ---
-title: A1 - Explore Quest (not graded)
-date: 2024-01-06
+date: '2024-01-06T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: A1 - Explore Quest (not graded)
+week: 1
+orderInWeek: 10
 ---
 
 ## Goal
@@ -15,9 +17,9 @@ Here are a few prominent websites for finding apps that can be installed directl
 
 [App Lab Game List: Free](https://applabgamelist.com/Free/)
 
-[SideQuest store (Free apps)](https://sidequestvr.com/category/all?sortOn=downloads&app_license=FREE&app_platform=1&app_download_method=1,2) (on app page use "Go To Meta" or "Download Options")
+[SideQuest store (Free apps)](https://sidequestvr.com/category/all?sortOn=downloads\&app_license=FREE\&app_platform=1\&app_download_method=1,2) (on app page use "Go To Meta" or "Download Options")
 
-&nbsp;
+ 
 
 ### Notes
 
@@ -30,10 +32,10 @@ This week you can do all installations through the apps' Store pages, either via
 Currently there's still a lot of webpages referring to App Lab, Meta's earlier channel for officially distributing apps that are not yet quite ready for their "real app store". As of late August 2024 they are just finishing the process of migrating all these apps to a common store, now called Meta Horizon Store. See here for more:
 [https://www.uploadvr.com/meta-horizon-store-app-lab-replaced-by-early-access/](https://www.uploadvr.com/meta-horizon-store-app-lab-replaced-by-early-access/)
 
-&nbsp;
+ 
 
 ### What to do
 
-- Explore the app stores
-- Try a few VR and/or XR applications
-- Pick your favorite(s) and make a brief review about at least one app in the course Slack channel
+* Explore the app stores
+* Try a few VR and/or XR applications
+* Pick your favorite(s) and make a brief review about at least one app in the course Slack channel

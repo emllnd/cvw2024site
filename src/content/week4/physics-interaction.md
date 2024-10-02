@@ -1,8 +1,10 @@
 ---
-title: Physics Interaction
-date: 2024-04-04
+date: '2024-04-04T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Physics Interaction
+week: 4
+orderInWeek: 2
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>
@@ -33,4 +35,4 @@ Documentation on [supported Audio Files](https://docs.unity3d.com/2022.3/Documen
 
 <VideoEmbed youtube="SuUNnwswH94"></VideoEmbed>
 
-[Physic Materials - Unity Official Tutorials](https://www.youtube.com/watch?app=desktop&v=SuUNnwswH94)
+[Physic Materials - Unity Official Tutorials](https://www.youtube.com/watch?app=desktop\&v=SuUNnwswH94)

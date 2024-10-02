@@ -1,8 +1,10 @@
 ---
-title: Locomotion
-date: 2024-04-06
+date: '2024-04-06T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Locomotion
+week: 4
+orderInWeek: 4
 ---
 
 <script>
@@ -16,7 +18,7 @@ Some techniques aim for most natural movement, e.g., by treadmills or redirected
 
 Here you can find a literature overview on [VR locomotion studies](https://www.mdpi.com/2414-4088/1/4/24). Another excellent resource on motion sickness and VR design are [Jason Jerald’s VR Book](https://thevrbook.net/).
 
-&nbsp;
+ 
 
 ![unified model](/img/week4/UnifiedModel.png)
 
@@ -24,7 +26,7 @@ FIGURE 1: A unified model of motion perception and motion sickness, see [Jason J
 
 The [broken escalator phenomenon](https://en.wikipedia.org/wiki/Broken_escalator_phenomenon) illustrates how complex the relation between expectation, sensory input and dizzyness is.
 
-&nbsp;
+ 
 
 ### Examples
 
@@ -32,7 +34,7 @@ There are many extra techniques for locomotion, such as redirected walking and t
 
 <VideoEmbed youtube="TX58AbJq-xo"></VideoEmbed>
 
-&nbsp;
+ 
 
 ### Vignette Movement
 
@@ -40,7 +42,7 @@ Based on [Combating VR sickness through subtle dynamic field-of-view modificatio
 
 <VideoEmbed youtube="HZf2dp_sn-8"></VideoEmbed>
 
-&nbsp;
+ 
 
 ### Rest Frames
 
@@ -50,7 +52,7 @@ Having a rest frame can help to reduce motion sickness, see for example Visually
 
 FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie, see [Jason Jerald's VR Book](https://thevrbook.net/).
 
-&nbsp;
+ 
 
 ### Non-Euclidean Worlds
 
@@ -58,7 +60,7 @@ FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie,
 
 <VideoEmbed youtube="PtnydnvOwGw"></VideoEmbed>
 
-&nbsp;
+ 
 
 ### Climbing
 
@@ -66,7 +68,7 @@ FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie,
 
 <VideoPlayer videoUrl="https://www.dropbox.com/scl/fi/388of3qs0xknbom0syzvx/com.forcefieldxr.explorevr-20201124-093540.mp4?rlkey=fn67jpwas8ulbgrxf0b2qxemq&dl=0&raw=1#t=30"></VideoPlayer>
 
-&nbsp;
+ 
 
 ### Paddling
 
@@ -74,7 +76,7 @@ FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie,
 
 <VideoPlayer videoUrl="https://www.dropbox.com/scl/fi/k71pmgw643z3m8sqw7qtg/com.forcefieldxr.explorevr-20201124-094342.mp4?rlkey=hmzo5o7fo3nbl1tej8lzyb67k&dl=0&raw=1#t=60"></VideoPlayer>
 
-&nbsp;
+ 
 
 ### World Scaling
 
@@ -82,7 +84,7 @@ FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie,
 
 <VideoPlayer videoUrl="https://www.dropbox.com/scl/fi/jvouyleteqxhui1ya5sak/com.google.tiltbrush-20201124-095135.mp4?rlkey=bg4yjyrfqe7ngwcodtxv27tji&dl=0&raw=1#t=30"></VideoPlayer>
 
-&nbsp;
+ 
 
 ### Slingshot Teleport and Arm Swinging
 
@@ -90,7 +92,7 @@ FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie,
 
 <VideoPlayer videoUrl="https://www.dropbox.com/scl/fi/onydv8he1enho62x5jvt0/com.normalvr.halfandhalf-20201124-092912.mp4?rlkey=xbzd0br9e7owi8ndlrkftndkl&dl=0&raw=1#t=180"></VideoPlayer>
 
-&nbsp;
+ 
 
 ### Scrunch Movement
 
@@ -98,7 +100,7 @@ FIGURE 2: Real-World Stabilized Cues - Rest Frames from CCP Games, EVE Valkyrie,
 
 <VideoPlayer videoUrl="https://www.dropbox.com/scl/fi/td8gopjmk1z5p9apqho9c/com.TenderClaws.TheUnderPresents.Quest-20201124-094643.mp4?rlkey=x3nb5grakawhf7s8czaqoaxu3&dl=0&raw=1#t=150"></VideoPlayer>
 
-&nbsp;
+ 
 
 ### Hand Walking
 

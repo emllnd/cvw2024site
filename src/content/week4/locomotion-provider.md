@@ -1,8 +1,10 @@
 ---
-title: Locomotion Provider
-date: 2024-04-07
+date: '2024-04-07T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Locomotion Provider
+week: 4
+orderInWeek: 5
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>

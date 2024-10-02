@@ -1,8 +1,10 @@
 ---
-title: Blessed versions 2024
-date: 2024-15-03
+date: '2025-03-03T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Blessed versions 2024
+week: 10
+orderInWeek: 1
 ---
 
 ## "Blessed Versions" of software, SDKs and packages used on the course in 2024
@@ -11,7 +13,7 @@ This is the official supported software environment of the course.
 
 Some older tutorials might show things in a different version or you may already have some other version on your machine. When troubleshooting and asking for help, please consider whether your issue could be due to not using the official versions.
 
-&nbsp;
+ 
 
 ### Unity Hub & Editor
 
@@ -23,8 +25,7 @@ Unity Hub makes it easy to have multiple simultaneous installs of Unity on a sin
 
 Each project is tied to a specific Unity version. Unity projects can usually be opened in a newer (but not older) version of Unity, but when opening Unity will perform a one-time one-way version update on the project.
 
-
-&nbsp;
+ 
 
 ### Unity packages for XR
 
@@ -32,15 +33,15 @@ Each project is tied to a specific Unity version. Unity projects can usually be 
 
 [XR Interaction Toolkit: 2.6.3](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.6/manual/index.html)
 
-&nbsp;
+ 
 
 ### Unity packages for input and input abstraction
 
 [Input System Package: 1.7.0](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/index.html)
 
-Input Manager (old) vs Input System Package (new)? --> On the course we use Input System (new) only!! 
+Input Manager (old) vs Input System Package (new)? --> On the course we use Input System (new) only!!
 
-&nbsp;
+ 
 
 ### Meta Quest Developer Hub
 
@@ -50,14 +51,10 @@ MQDH (Meta Quest Developer Hub): 4.8.0 or newer
 
 [MQDH Documentation](https://developer.oculus.com/documentation/unity/ts-odh/)
 
-&nbsp;
+ 
 
 ### Operating System
 
 Windows 10 or Windows 11, recently updated.
 
 Mac OSX: tested on 14.x but slightly older should work too.
-
-
-
-

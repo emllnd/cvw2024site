@@ -1,8 +1,10 @@
 ---
-title: Getting Started with Quest (User)
-date: 2024-01-05
+date: '2024-01-05T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Getting Started with Quest (User)
+week: 1
+orderInWeek: 2
 ---
 
 ## Setup Quest

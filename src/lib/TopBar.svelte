@@ -12,9 +12,9 @@
 	});
 </script>
 
-<div class="h-16 bg-gray-300 md:h-24">
+<div class="h-16 bg-gray-300 md:h-20">
 	<div class="absolute mx-auto flex w-full flex-row justify-between align-middle">
-		<ul class="list-reset text-md inline-flex px-4 py-5 sm:px-4 sm:py-4 md:py-8 md:text-lg">
+		<ul class="list-reset text-md inline-flex px-4 py-5 sm:px-4 sm:py-4 md:py-6 md:text-lg">
 			<a href="/" class="font-semibold text-black no-underline visited:text-black">
 				Coding Virtual Worlds 2024
 			</a>

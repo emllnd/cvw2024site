@@ -1,8 +1,10 @@
 ---
-title: Additional
-date: 2024-15-01
+date: '2025-03-01T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Additional
+week: 10
+orderInWeek: 0
 ---
 
 ## Additional Material

@@ -1,8 +1,10 @@
 ---
-title: Canvas
-date: 2024-04-05
+date: '2024-04-05T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Canvas
+week: 4
+orderInWeek: 3
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>

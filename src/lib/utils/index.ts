@@ -2,7 +2,9 @@ export const fetchSortedNonDraftPosts = async () => {
     const allPosts = await fetchContentItems(false)
     const nonDraftPosts = allPosts.filter(x => x.meta.draft != true)
     const sortedPosts = allPosts.sort((a, b) => {
-        return new Date(a.meta.date) - new Date(b.meta.date)
+        return a.meta.orderInWeek - b.meta.orderInWeek
+    }).sort((a, b) => {
+        return a.meta.week - b.meta.week
     })
     return sortedPosts
 }

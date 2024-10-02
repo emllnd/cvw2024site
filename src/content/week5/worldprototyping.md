@@ -1,8 +1,10 @@
 ---
-title: World Prototyping
-date: 2024-05-02
+date: '2024-05-02T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: World Prototyping
+week: 5
+orderInWeek: 1
 ---
 
 <script>import VideoEmbed from '$lib/VideoEmbed.svelte'</script>
@@ -19,7 +21,7 @@ First learn about the basic workflow of the ProBuilder package:
 
 Read the following tutorial for effective working with ProBuilder:
 
-- [ProBuilder Tutorial: Rapid Prototyping in Unity](https://www.raywenderlich.com/12008376-probuilder-tutorial-rapid-prototyping-in-unity)
+* [ProBuilder Tutorial: Rapid Prototyping in Unity](https://www.raywenderlich.com/12008376-probuilder-tutorial-rapid-prototyping-in-unity)
 
 ## Escape Room Example
 
@@ -29,8 +31,8 @@ Read the following tutorial for effective working with ProBuilder:
 
 Also add:
 
-- XR Origin and locomotion system
-- a teleportation area to the floor
+* XR Origin and locomotion system
+* a teleportation area to the floor
 
 ### Add Table with Drawer
 

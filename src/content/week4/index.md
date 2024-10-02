@@ -1,20 +1,22 @@
 ---
-title: Week 4
-date: 2024-04-01
+date: '2024-04-01T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: Week 4
+week: 4
+orderInWeek: 0
 ---
 
 The learning goals for Week 4 are:
 
-- Getting started with XR Interaction Toolkit
-- Learn some interactive mechanics
-- Learn locomotion paradigms in XR
-- Make a small VR Bowling game
+* Getting started with XR Interaction Toolkit
+* Learn some interactive mechanics
+* Learn locomotion paradigms in XR
+* Make a small VR Bowling game
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 ### Interactions and locomotion teaser
 

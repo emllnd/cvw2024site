@@ -1,8 +1,10 @@
 ---
-title: MQDH Transfer Videos
-date: 2024-02-04
+date: '2024-02-04T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: MQDH Transfer Videos
+week: 2
+orderInWeek: 3
 ---
 
 Using the Meta Quest Developer Hub (MQDH) to transfer videos from the Quest headset to a computer.
@@ -25,6 +27,6 @@ At first (on mac) it ends up somewhere like... `/Users/user/Library/Application 
 
 ## For testing video transfer
 
-- Open Menu and start recording a video
-- Do something on the Quest (browse menus, play a game)
-- Connect Quest to PC. Download video from Quest with MQDH.
+* Open Menu and start recording a video
+* Do something on the Quest (browse menus, play a game)
+* Connect Quest to PC. Download video from Quest with MQDH.

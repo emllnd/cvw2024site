@@ -1,10 +1,11 @@
 ---
-title: A2 - Learning Unity
-date: 2024-02-06
+date: '2024-02-06T00:00:00.000Z'
 description: ''
 image: /img/week1/temp-clouds.jpg
+title: A2 - Learning Unity
+week: 2
+orderInWeek: 10
 ---
-
 
 ## Setup Unity
 
@@ -14,11 +15,10 @@ First, let’s Install Unity.
 
 In particular:
 
-- Install Unity Hub
-- Install Unity Editor
-	
-	- Correct Editor version is listed on the [Blessed Versions page](/additional/blessedversions/)
-- During Editor installation make sure to install Android SDKs
+* Install Unity Hub
+* Install Unity Editor
+  * Correct Editor version is listed on the [Blessed Versions page](/additional/blessedversions/)
+* During Editor installation make sure to install Android SDKs
 
 ### Get Started with Unity
 
@@ -32,9 +32,8 @@ Read an overview of Unity here [Get Started with Unity](https://docs.unity3d.com
 
 In particular:
 
-- Common types of assets
-- Using the Asset Store
-
+* Common types of assets
+* Using the Asset Store
 
 Also here: [Creating Gameplay](https://docs.unity3d.com/Manual/CreatingGameplay.html)
 
@@ -54,16 +53,16 @@ If you're unsure which app to use for coding, find one here: [Code Editors (IDEs
 
 Create a small mini game including following features:
 
-- Create PlayerController
-- Basic movement from user input
-- Constrain the Player’s movement
-- Give objects basic movement
-- Destroy objects off-screen
-- Handle object collisions
-- Make SpawnManager spawn Prefabs
-- Replace player with new asset
-- Replace all non-player with some assets
-- Replace the background texture
+* Create PlayerController
+* Basic movement from user input
+* Constrain the Player’s movement
+* Give objects basic movement
+* Destroy objects off-screen
+* Handle object collisions
+* Make SpawnManager spawn Prefabs
+* Replace player with new asset
+* Replace all non-player with some assets
+* Replace the background texture
 
 Instead, you can implement as many of your own features as you like. Grading: Each features gives 0.5 points. In total you can reach 5 points.
 
@@ -73,7 +72,7 @@ As inspiration you can use [Lab 3](https://learn.unity.com/tutorial/lab-3-player
 
 In MyCourses submit the following deliverables
 
-- A compiled build of your game
-- A video walkthrough of all features. You can create such a walkthrough for example with the screen recording of [OBS Studio](https://obsproject.com/) or [Zoom](https://zoom.us/).
-- A short .txt file labeled readme includes any information about the build you want us to know. Especially mention implemented extra features.
-- Quest screen recording of Beat Saber reference app. This makes sure that your Quest connection is up and runnning. The .apk can be found at the end of the [Install Apps page](/week2/mqdh-install-apps/). Instructions for fetching the video are on the [Transfer Videos page](/week2/mqdh-transfer-videos/).
+* A compiled build of your game
+* A video walkthrough of all features. You can create such a walkthrough for example with the screen recording of [OBS Studio](https://obsproject.com/) or [Zoom](https://zoom.us/).
+* A short .txt file labeled readme includes any information about the build you want us to know. Especially mention implemented extra features.
+* Quest screen recording of Beat Saber reference app. This makes sure that your Quest connection is up and runnning. The .apk can be found at the end of the [Install Apps page](/week2/mqdh-install-apps/). Instructions for fetching the video are on the [Transfer Videos page](/week2/mqdh-transfer-videos/).
