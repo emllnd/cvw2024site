@@ -1,7 +1,9 @@
 
 # Coding Virtual Worlds 2024
 
-Source code & content for the [ARCHIVED VERSION of the course materials website](https://emillindfors.com/archive/courses/aalto-cvw2024/) (original url: [course materials website](https://aaltovirtualworlds.xyz/)).
+This repo contains the original source code & content for the course materials website that now lives [ARCHIVED HERE](https://emillindfors.com/archive/courses/aalto-cvw2024/).
+
+Original url (now deprecated): [https://aaltovirtualworlds.xyz/](https://aaltovirtualworlds.xyz/)).
 
 This is a static website built with [SvelteKit](https://kit.svelte.dev/).
 
